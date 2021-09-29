@@ -1,1 +1,1 @@
-# SSOO-tarea01
+# Miguel Escobar Palta      miguel.escobarp@alumnos.uv.cl
