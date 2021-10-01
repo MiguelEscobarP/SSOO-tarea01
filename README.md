@@ -1,4 +1,7 @@
 ##### Miguel Escobar Palta      miguel.escobarp@alumnos.uv.cl
 ## Solucion Tarea
-#### Para las preguntas en las cuales se pedia busqueda y pruebas de comandos, se ejecutaron por terminal (cmd) mientras se tenia la maquina virtual con ubuntu
-#### encendida
+#### Para las preguntas en las cuales se pedia busqueda y pruebas de comandos, se ejecutaron por terminal (cmd) mientras se tenia la maquina virtual con ubuntu encendida.
+#### En el caso de la extension por parentesis al hacer pruebas en archivos de texto y en un subdirectorio creado solo para ver los argumentos de la expansion por parentesis, logre obtener los meses del año como subdirectorios.
+#### El uso de pipes se volvio algo muy util, ya que la forma de usarse es muy completa, para leer los archivos y a la vez extrer informacion, lo hace una forma de trabajar mas rapida.
+#### Las variables de ambiente fueron usadas para comprobar las rutas de donde trabajaba.
+#### En el caso de la ultima pregunta, al ejecutar un script, necesite buscar uso de comandos en script, como trabajar en nano, y al descubrir el uso de los caracteres "$" y sus aplicaciones se volvio mucho mas sensillo. Para la solucion en la primera linea echo se usa para mostrar e imprimir el nombre del archivo, -n hace que no imprima una nueva línea y -f se encarga de que siga el enlace entero. Desde la segunda hasta la cuarta se ocupa un for para recorrer algun mensaje ingresado, con un echo para ir mostrando y done para cuando ya termine. Finalmente un echo $$ para mostrar PID y el echo mas el head que muestra las diez primeras lineas de la ruta solicitada.
